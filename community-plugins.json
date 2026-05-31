@@ -30143,7 +30143,7 @@
   },
   {
     "id": "lskypro-image-upload",
-    "name": "Image To Lskypro",
+    "name": "LskyPro Image Upload",
     "author": "老张博客",
     "description": "Obsidian 自动上传图片到兰空图床(LskyPro)插件",
     "repo": "laozhangge/obsidian-lskpro"
