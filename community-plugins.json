@@ -30140,5 +30140,12 @@
     "author": "Charles Kelsoe",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Developer tools to capture annotated screenshots with structured context, reload plugins live, and inspect icons, CSS variables, and commands.",
     "repo": "ckelsoe/obsidian-developer-toolbox"
+  },
+  {
+    "id": "lskypro-auto-upload-v2",
+    "name": "Image To Lskypro",
+    "author": "老张博客",
+    "description": "Obsidian 自动上传图片到兰空图床(LskyPro)插件",
+    "repo": "laozhangge/obsidian-lskpro"
   }
 ]
